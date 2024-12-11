@@ -7,7 +7,7 @@ This tool is a simple FTP brute force password cracker written in Go. It utilize
 - Brute force attack for FTP login.
 - Option to use FTPS (FTP over TLS).
 - Configurable number of concurrent connections.
-- Option to delay login attempts (`-lwr` flag).
+- Option to delay login attempts (`-time` flag).
 - Simple color output to indicate success or failure.
 
 ## Prerequisites
@@ -19,7 +19,7 @@ This tool is a simple FTP brute force password cracker written in Go. It utilize
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/ftp-brute-force.git
+    git clone https://github.com/Mogra12/ftp-brute-force.git
     cd ftp-brute-force
     ```
 
