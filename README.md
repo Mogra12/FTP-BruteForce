@@ -19,7 +19,7 @@ This tool is a simple FTP brute force password cracker written in Go. It utilize
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/Mogra12/ftp-brute-force.git
+    git clone https://github.com/Mogra12/FTP-BruteForce
     cd ftp-brute-force
     ```
 
